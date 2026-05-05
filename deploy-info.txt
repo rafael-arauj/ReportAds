@@ -1,0 +1,4 @@
+Deploy trigger for Hostinger.
+Updated: 2026-05-05.
+Repository: rafael-arauj/ReportAds
+Branch: main
